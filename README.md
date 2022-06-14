@@ -50,4 +50,4 @@ indexOfResultArray++;
 ## Задача выполнена
 
 ---
-*Ссылка на репозиторий* - https://github.com/scorysd/GB_test.git
+*Ссылка на программу* - https://github.com/scorysd/GB_test/blob/main/Task/Program.cs
